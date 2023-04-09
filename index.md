@@ -39,6 +39,13 @@ else {
 }
 ```
 
+## Things I Want To Do
+- [ ] Go to Japan
+- [ ] Graduate College
+- [ ] Bench 405
+- [ ] Pass this course
+- [x] Visit relatives in China 
+
 ## Link To README
 [README](README.md)
 
