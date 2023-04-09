@@ -26,7 +26,7 @@ Mathematics and computer science both pique my intersts hence my current major. 
 
 ## Quote
 My favorite quote currently is
-> Better a diamond with a flaw than a pebble without one
+> *Better a diamond with a flaw than a pebble without one*
 
 ## Day In The Life
 ```
