@@ -1,6 +1,7 @@
 # Benjamin Liang's User Page
 
 I am a undergraduate sophomore at [UCSD](https://ucsd.edu/) majoring in Mathematics - Computer Science. I grew up in Bay Area, San Francisco and graduated highschool there as well.
+
 ![San Francisco](SF.jpg)
 
 ## Personal Interests
@@ -41,4 +42,4 @@ else {
 ## Link To README
 [README](README.md)
 
-[Back to top](#Benjamin-Liang's-User-Page)
+[Back to top](#benjamin-liangs-user-page)
