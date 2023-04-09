@@ -5,7 +5,7 @@ I am a undergraduate sophomore at [UCSD](https://ucsd.edu/) majoring in Mathemat
 ![San Francisco](SF.jpg)
 
 ## Personal Interests
-Some things I love to do during my free time are:
+Some things I ***love*** to do during my free time are:
 - Gaming
   - Minecraft
   - Fortnite
@@ -15,7 +15,7 @@ Some things I love to do during my free time are:
   - Badminton
 - Hanging out with friends
 
-Additionally I like watching anime and movies. My favorite movie currently is: The Batman (2022).
+Additionally I like watching anime and movies. My favorite movie currently is: *The Batman (2022)*.
 
 ## Academic Interests
 Mathematics and computer science both pique my intersts hence my current major. Some fields of math and computer science I love in order are:
